@@ -1,9 +1,9 @@
-# ** **
+# **Building & Deploying Online Resume using HTML**
 
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![HTML5](https://img.shields.io/badge/HTML5-brightgreen.svg)
 
 Download Additional Files :
-• This repository consists of files required to deploy a 
+• This repository consists of files required to deploy a an online Resume.
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
@@ -14,29 +14,12 @@ Download Additional Files :
 
 
 ## Deployment
-
-  
-## Installation
-
-To install the libraries used in this project. Follow the 
-below steps:
-
-```bash
-
-
-```
-    
-## Running Flask Api
-
-To run tests, run the following command
-
-```bash
-  python app.py
-```
+  1.Build using HTML5
+  2.Deployed on Github Pages.
 
 ## 🚀 About Me
 
-Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data 
+Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data | Full Stack Developer
 
 
 # Hi, I'm Akash! 👋
@@ -68,10 +51,11 @@ Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using
 2. Data Analyst
 3. Business Analyst
 4. Machine Learning 
+5. Full Stack Developer
 
 
 ## Future Plans 
 
-⚡️ Looking forward to help drive innovations into your company as a Data Scientist
+⚡️ Looking forward to help drive innovations into your company as a Data Scientist / Full Stack Developer
 
 ⚡️ Looking forward to offer more than I take and leave the place better than i found
